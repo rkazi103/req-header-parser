@@ -55,7 +55,3 @@ Start the server in production
 ```
 
 It will return a JSON object containing your device's IP address, preferred languages, and software preferences.
-
-## Feedback
-
-If you have any feedback, please email me at @rayan.quack.you@gmail.com
